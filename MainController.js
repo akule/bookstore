@@ -27,7 +27,7 @@ app.controller('MainController', ['$scope', function($scope) {
     dislikes: 0
 		},
     { 
-  	name: 'The Book of Mountains',
+  	name: 'The Book of General Ignorance',
   	price: 2.59,
   	pubdate: new Date('2005', '11', '8'),
     cover: 'http://goo.gl/nKnMCL',
